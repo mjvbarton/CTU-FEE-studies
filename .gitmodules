@@ -19,3 +19,6 @@
 [submodule "B6B39ZWA-itesty"]
 	path = B6B39ZWA-itesty
 	url = git@github.com:mjvbarton/FEL-B6B39ZWA-itesty.git
+[submodule "B6B32PSI-TcpServer"]
+	path = B6B32PSI-TcpServer
+	url = git@github.com:mjvbarton/FEL-B6B32PSI-TcpServer.git
