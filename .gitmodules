@@ -22,3 +22,6 @@
 [submodule "B6B32PSI-TcpServer"]
 	path = B6B32PSI-TcpServer
 	url = git@github.com:mjvbarton/FEL-B6B32PSI-TcpServer.git
+[submodule "B6B36EAR-Knihovna"]
+	path = B6B36EAR-Knihovna
+	url = git@github.com:mjvbarton/FEL-B6B36EAR-Knihovna.git
