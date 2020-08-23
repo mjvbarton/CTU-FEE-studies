@@ -13,3 +13,6 @@
 [submodule "B6B36-GymGo"]
 	path = B6B36-GymGo
 	url = git@github.com:mjvbarton/FEL-B6B36SMP-GymGo.git
+[submodule "B6B36ZPR-PcUcebna"]
+	path = B6B36ZPR-PcUcebna
+	url = git@github.com:mjvbarton/FEL-B6B36ZPR-PcUcebna.git
