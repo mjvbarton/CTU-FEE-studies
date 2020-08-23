@@ -16,3 +16,6 @@
 [submodule "B6B36ZPR-PcUcebna"]
 	path = B6B36ZPR-PcUcebna
 	url = git@github.com:mjvbarton/FEL-B6B36ZPR-PcUcebna.git
+[submodule "B6B39ZWA-itesty"]
+	path = B6B39ZWA-itesty
+	url = git@github.com:mjvbarton/FEL-B6B39ZWA-itesty.git
