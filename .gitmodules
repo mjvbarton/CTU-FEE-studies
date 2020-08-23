@@ -7,3 +7,6 @@
 [submodule "B6B36OMO-SmartFactory"]
 	path = B6B36OMO-SmartFactory
 	url = git@github.com:mjvbarton/FEL-B6B36OMO-SmartFactory.git
+[submodule "B0B36PJV-SmartOrchestra"]
+	path = B0B36PJV-SmartOrchestra
+	url = git@github.com:mjvbarton/FEL-B0B36PJV-SmartOrchestra.git
