@@ -4,3 +4,6 @@
 [submodule "B6B36OMO-Labs"]
 	path = B6B36OMO-Labs
 	url = git@github.com:mjvbarton/FEL-B6B36OMO-Labs.git
+[submodule "B6B36OMO-SmartFactory"]
+	path = B6B36OMO-SmartFactory
+	url = git@github.com:mjvbarton/FEL-B6B36OMO-SmartFactory.git
