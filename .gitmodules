@@ -10,3 +10,6 @@
 [submodule "B0B36PJV-SmartOrchestra"]
 	path = B0B36PJV-SmartOrchestra
 	url = git@github.com:mjvbarton/FEL-B0B36PJV-SmartOrchestra.git
+[submodule "B6B36-GymGo"]
+	path = B6B36-GymGo
+	url = git@github.com:mjvbarton/FEL-B6B36SMP-GymGo.git
