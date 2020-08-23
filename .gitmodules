@@ -1,3 +1,6 @@
 [submodule "B6B36EAR-SampleEshop"]
 	path = B6B36EAR-SampleEshop
 	url = git@github.com:mjvbarton/FEL-B6B36EAR-SampleEshop.git
+[submodule "B6B36OMO-Labs"]
+	path = B6B36OMO-Labs
+	url = git@github.com:mjvbarton/FEL-B6B36OMO-Labs.git
