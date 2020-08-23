@@ -1,0 +1,3 @@
+[submodule "B6B36EAR-SampleEshop"]
+	path = B6B36EAR-SampleEshop
+	url = git@github.com:mjvbarton/FEL-B6B36EAR-SampleEshop.git
